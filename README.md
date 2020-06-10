@@ -35,3 +35,17 @@ Django Username: test
 Django Password: test
 *********************************
 ```
+
+
+Combo File
+---
+
+Example combo file comes with this as test.txt
+
+it must be formatted like so.
+
+```
+admin:admin
+test:test
+django:django
+```
