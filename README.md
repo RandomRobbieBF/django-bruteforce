@@ -1,5 +1,5 @@
 # django-bruteforce
-Django Admin Url Bruteforce tool.
+Django Control Panel Bruteforce tool.
 
 
 ```
